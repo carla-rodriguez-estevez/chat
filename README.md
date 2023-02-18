@@ -1,13 +1,10 @@
 # chat
 elixir chat using phoenix liveview
 
-Steps to reproduce it
+# Setup guides:
 
-```
-mix phx.server
-```
-
-This command will do everything needed to start a web server to use the app
+  * Install dependencies with `mix deps.get`
+  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
 Then please visit http://localhost:4000/name-of-your-chat-room
 
